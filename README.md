@@ -1,8 +1,7 @@
 # hello-world
 
-Hello hoomans,
+Hello World,
 
-My name is Maki, I love sushi and sunsets.
+My name is Maral, I love :sushi: and :egg:.
 
-Best,
-Maki
+
